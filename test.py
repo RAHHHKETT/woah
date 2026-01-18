@@ -9,5 +9,5 @@ while True:
 
     choice = input("Do you want to add again? (y/n): ")
     if choice.lower() != 'y':
-        print("Calculator stopped.")
+        print("done.")
         break
